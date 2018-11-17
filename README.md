@@ -1,0 +1,2 @@
+# CoreSMSApp
+StudentManagementSystem
